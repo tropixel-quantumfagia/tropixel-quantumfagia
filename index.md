@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-11-13 14:47:11.157000+00:00
+date: 2025-11-14 00:42:21.372000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -27,4 +27,6 @@ Dúvidas? Respondamos.
 ## Quem vem, por quê, o que traz ou faz?
 
 - [Felipe](https://fonte.wiki/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
+
+- Tati [Cineclube Pipa](https://cineclubepipa.wordpress.org) propõe em formato de mutirão façamos-juntxs a criação de um acervo copyleft de vídeos relacionados à duas décadas de artivismo brasileiro. Através da seleção e categorização de materiais perdidos em HD antigos, anarquivismo digital, remixtecituras e tudo mais que o passado e presente possibilitarem fazer re-surgir. Traga seus vídeos, fitas antigas, memórias e viagens!
 
