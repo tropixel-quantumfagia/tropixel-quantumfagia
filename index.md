@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-11-26 16:51:52.099000+00:00
+date: 2025-11-26 17:40:02.347000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -30,7 +30,7 @@ Vamos chegando, vamos chegando. Avisem pelos canais de tropixel. Ou cheguem sem 
 
 Quem já falou que vem:
 
-Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Djahjah, Gil...
+Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Djahjah, Gil,  Cibelle...
 
 ## Sobre a Casa Ngira
 
