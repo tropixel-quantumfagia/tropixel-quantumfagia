@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-11-26 17:40:02.347000+00:00
+date: 2025-11-30 21:04:49.198000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -32,6 +32,15 @@ Quem já falou que vem:
 
 Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Djahjah, Gil,  Cibelle...
 
+## O que vai ter lá?
+
+- Montar um hackab e rádio urgência com Romano nos dois dias
+- Editatona de vídeos com Tati
+- Fala do podcast Futuros Imaginários com Djahjah no dia 6
+- FF falando sobre documentação coletiva no longo prazo
+- Intervenções / Fala de Glerm
+- Brunch e almoço ajantarado para os dois dias
+
 ## Sobre a Casa Ngira
 
 *Rua Benjamin Constant, 125 Glória RJ
@@ -40,6 +49,7 @@ Horário de funcionamento: 10h às 22h*
 Casario de 1899, localizado na Glória, construído durante o avanço positivista no Rio de Janeiro. Trata-se de um espaço para estúdio, ensaios, experiências e aprendizagem, focado no acolhimento de práticas e reflexões sobre tecnologias digitais, infraestruturas solidárias e cuidado, manejo e movimento do corpo. Em uma de suas salas fica a sede da Escola de Capoeira Angola Renascer.
 
 Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
+
 
 
 
