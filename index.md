@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-11-30 21:04:49.198000+00:00
+date: 2025-12-02 14:05:28.409000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -34,7 +34,7 @@ Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Dj
 
 ## O que vai ter lá?
 
-- Montar um hackab e rádio urgência com Romano nos dois dias
+- Montar um hackab e rádio urgência com Romano nos domingo (10h às 13h)
 - Editatona de vídeos com Tati
 - Fala do podcast Futuros Imaginários com Djahjah no dia 6
 - FF falando sobre documentação coletiva no longo prazo
