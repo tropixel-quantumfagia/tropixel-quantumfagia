@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-12-03 00:18:44.658000+00:00
+date: 2025-12-05 21:35:09.347000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -15,6 +15,8 @@ dateCreated: 2025-10-29 19:55:24.021000+00:00
 Casa Ngira, Rio de Janeiro.*
 
 **Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
+
+Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
 
 Dúvidas? Respondamos.
 
@@ -34,12 +36,35 @@ Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Dj
 
 ## O que vai ter lá?
 
-- Montar um hackab e rádio urgência com Romano no domingo (10h às 13h)
-- Editatona de vídeos com Tati
-- Fala do podcast Futuros Imaginários com Djahjah no dia 6
-- FF falando sobre documentação coletiva de longo prazo
-- Intervenções / Fala de Glerm
-- Brunch e almoço ajantarado para os dois dias
+**06/12 SÁBADO**
+
+**Manhã** 
+* 10h - 11h atividade de abertura: já nos conhecemos, para onde vamos?
+* Cozinha coletiva 11h30 -14h
+
+**Tarde**
+* memórias táticas/quantumfagia
+* cartografias dos afetos: mapa relacional
+* FF falando sobre documentação coletiva de longo prazo
+* [Futuros Imaginários podcast]({{ 'FuturosImaginarios' | relative_url }})
+
+**Noite**
+* 18h Editadona http://videos.midiatatica.net com TW
+* 22h encerramento 
+
+**07/12 DOMINGO**
+
+**Manhã**
+* Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)
+* Cozinha coletiva 11h30 -14h
+
+**Tarde**
+* Rapsberry Pi com Yunohost na ngira com Gi
+* China com Drica
+
+**Noite** 
+* Cineclube http://videos.midiatatica.net 
+* 22h encerramento
 
 ## Sobre a Casa Ngira
 
@@ -48,7 +73,7 @@ Horário de funcionamento: 10h às 22h*
 
 Casario de 1899, localizado na Glória, construído durante o avanço positivista no Rio de Janeiro. Trata-se de um espaço para estúdio, ensaios, experiências e aprendizagem, focado no acolhimento de práticas e reflexões sobre tecnologias digitais, infraestruturas solidárias e cuidado, manejo e movimento do corpo. Em uma de suas salas fica a sede da Escola de Capoeira Angola Renascer.
 
-Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
+Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento, se necessário. 
 
 
 
