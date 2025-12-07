@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-12-05 21:35:09.347000+00:00
+date: 2025-12-07 14:17:39.992000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -13,6 +13,8 @@ dateCreated: 2025-10-29 19:55:24.021000+00:00
 
 *6 e 7 de dezembro de 2025.
 Casa Ngira, Rio de Janeiro.*
+
+**ATENÇÂO:** mudamos a programação da tarde de domingo para ir ao Levante Mulheres Vivas, em Copacabana.
 
 **Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
 
@@ -55,16 +57,19 @@ Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Dj
 **07/12 DOMINGO**
 
 **Manhã**
-* Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)
-* Cozinha coletiva 11h30 -14h
+* ~~Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)~~
+* 10h30 - 14h Cozinha coletiva
+* 12h - Acervos coletivos - cuidado e memória
 
 **Tarde**
-* Rapsberry Pi com Yunohost na ngira com Gi
-* China com Drica
+* 14h *Encerramento na casa Ngira*
+* 14h Levante Mulheres Vivas - Copacabana
+* ~~Raspberry Pi com Yunohost na ngira com Gi~~
+* ~~China com Drica~~
 
 **Noite** 
-* Cineclube http://videos.midiatatica.net 
-* 22h encerramento
+* ~~Cineclube http://videos.midiatatica.net~~
+* ~~22h encerramento~~
 
 ## Sobre a Casa Ngira
 
