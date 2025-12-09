@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-12-09 16:15:11.389000+00:00
+date: 2025-12-09 16:34:24.104000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -29,11 +29,11 @@ Uma coisa que começou e começou e começou. E aí parou de começar. E foi um 
 
 ## Quem
 
-Quem já falou que vem:
+Quem falou que iria:
 
 Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Djahjah, Gil,  Cibelle...
 
-## O que vai ter lá?
+## Qual era o plano por lá?
 
 **06/12 SÁBADO**
 
