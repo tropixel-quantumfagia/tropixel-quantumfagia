@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: None
 published: True
-date: 2025-12-07 14:17:39.992000+00:00
+date: 2025-12-09 16:15:11.389000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-29 19:55:24.021000+00:00
@@ -14,21 +14,18 @@ dateCreated: 2025-10-29 19:55:24.021000+00:00
 *6 e 7 de dezembro de 2025.
 Casa Ngira, Rio de Janeiro.*
 
-**ATENÇÂO:** mudamos a programação da tarde de domingo para ir ao Levante Mulheres Vivas, em Copacabana.
-
 **Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
-
-Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
 
 Dúvidas? Respondamos.
 
 ![flyer.png]({{ '/assets/media/flyer.png' | relative_url }})
 
-## O que é tropixel quantumfagia?
+## O que ~~é~~ foi tropixel quantumfagia?
 
-Vamos saber quando acontecer. O plano é passar o fim de semana entre pessoas que se conhecem ou ainda vão conhecer - cozinhando, comendo, conversando, refletindo sobre o tempo que passou (passou mesmo?) e o que ainda virá (e virá mesmo?).
+Uma coisa que começou e começou e começou. E aí parou de começar. E foi um bom pretexto pra encontros.
 
-Vamos chegando, vamos chegando. Avisem pelos canais de tropixel. Ou cheguem sem avisar, que também é válido.
+~~Vamos saber quando acontecer. O plano é passar o fim de semana entre pessoas que se conhecem ou ainda vão conhecer - cozinhando, comendo, conversando, refletindo sobre o tempo que passou (passou mesmo?) e o que ainda virá (e virá mesmo?).~~
+~~Vamos chegando, vamos chegando. Avisem pelos canais de tropixel. Ou cheguem sem avisar, que também é válido.~~
 
 ## Quem
 
